@@ -141,7 +141,7 @@ img {
     position: absolute; 
 
     right: 66px;
-    top: 40px;
+    top: 39px;
     
     letter-spacing: 0.5px;
     font-family: Garamond; 
@@ -152,11 +152,11 @@ img {
 .course-pad h2 {
     position: absolute; 
 
-    top: 109px;
-    right: 216px;
+    top: 107px;
+    right: 200px;
     
     font-family: Garamond; 
-    font-size: 18px;
+    font-size: 21px;
     font-weight: 600;
     
     color: #0d0d0d;
@@ -305,11 +305,11 @@ img {
 }
 
 .ad p {
-    margin: 20px 170px 0 30px;
+    margin: 5px 170px 0 30px;
     color: #333333;
     
     font-family: Quattrocento Sans;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 600;
     letter-spacing: 1.4px;
     line-height: 20px;
